@@ -1,0 +1,6 @@
+[submodule "journalism_website"]
+	path = journalism_website
+	url = https://github.com/rayeeev/journalism_website.git
+[submodule "studio-journalism_backend"]
+	path = studio-journalism_backend
+	url = https://github.com/rayeeev/studio-journalism_backend.git
